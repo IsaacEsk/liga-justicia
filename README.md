@@ -11,9 +11,5 @@ Pueden hacer lo que quieran...
 un cambio nomas para el pull 
 
 
-<<<<<<< HEAD
-## esto v a sier nuevo mi repositorio local 
-=======
 ## esto v a sier nuevo desde github 
->>>>>>> 4ed0500a5d7ff3fecb1efe30fbec1dae572e823b
 
