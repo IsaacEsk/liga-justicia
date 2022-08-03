@@ -11,5 +11,5 @@ Pueden hacer lo que quieran...
 un cambio nomas para el pull 
 
 
-## esto v a sier nuevo desde github 
+## esto v a sier nuevo desde github  por jp
 
